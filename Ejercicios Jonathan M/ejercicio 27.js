@@ -160,4 +160,9 @@ class CuentaBancaria {
 const miCuenta = new CuentaBancaria("carlos");
 miCuenta.depositar(100);
 miCuenta.retirar(100);
+
+// instanciamos otra cuenta bancaria:
+const otraCuenta = new CuentaBancaria("Breiner");
+otraCuenta.depositar(200);
+otraCuenta.retirar(300);
  */
