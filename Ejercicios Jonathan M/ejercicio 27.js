@@ -133,6 +133,7 @@ console.log(Object)
 */
 
 // ------------- ANGULAR -------------------
+/* 
 class CuentaBancaria {
 
   constructor (titular){
@@ -159,3 +160,4 @@ class CuentaBancaria {
 const miCuenta = new CuentaBancaria("carlos");
 miCuenta.depositar(100);
 miCuenta.retirar(100);
+ */
